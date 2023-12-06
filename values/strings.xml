@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teacher Schedule</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+</resources>
